@@ -27,7 +27,7 @@
 ![RedMine](https://img.shields.io/badge/redmine-B32024?style=for-the-badge&logo=redmine&logoColor=white)
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tom910903&layout=compact&theme=onedark)](https://github.com/tom910903)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tom910903&layout=compact&theme=onedark)](https://github.com/tom910903) 
 [![Solved.ac_Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tom910903)](https://solved.ac/tom910903)  
 ![Mason.Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=tom910903&show_icons=true&theme=onedark)
 
