@@ -27,15 +27,9 @@
 ![RedMine](https://img.shields.io/badge/redmine-B32024?style=for-the-badge&logo=redmine&logoColor=white)
 </div>
 
+[![Solved.ac_Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tom910903)](https://solved.ac/tom910903)  
 ![Mason.Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=tom910903&show_icons=true&theme=onedark)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tom910903)](https://solved.ac/profile/tom910903)
-
-[![Solved.ac_Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tom910903)](https://solved.ac/tom910903)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tom910903&layout=compact&theme=onedark)](https://github.com/tom910903)
-
-[![Study](https://github-readme-stats.vercel.app/api/pin/?username=tom910903&repo=Study&theme=onedark)](https://github.com/tom910903/Study)
 
 <!--
 https://kimasill.tistory.com/4
@@ -55,5 +49,3 @@ https://blog.cowkite.com/blog/2102241544/
 
 https://www.emojicopy.com
 -->
-
-![footer](https://capsule-render.vercel.app/api?type=waving&theme=onedark&height=300&section=footer)
